@@ -1,0 +1,1 @@
+const TIME_EXPIRATION = 3600 // THỜI GIAN HẾT HẠN 1H

@@ -1,0 +1,102 @@
+[
+    {
+        "name": "Đà Lạt - Tp.Hồ Chí Minh",
+        "estimatedTime": 7000,
+        "price": 500000
+    },
+    {
+        "name": "Hà Nội - Đà Nẵng",
+        "estimatedTime": 6000,
+        "price": 450000
+    },
+    {
+        "name": "Hồ Chí Minh - Nha Trang",
+        "estimatedTime": 5000,
+        "price": 400000
+    },
+    {
+        "name": "Hải Phòng - Hà Tĩnh",
+        "estimatedTime": 3000,
+        "price": 250000
+    },
+    {
+        "name": "Cần Thơ - Vũng Tàu",
+        "estimatedTime": 4000,
+        "price": 300000
+    },
+    {
+        "name": "Quảng Ninh - Hải Dương",
+        "estimatedTime": 3500,
+        "price": 275000
+    },
+    {
+        "name": "Ninh Bình - Hà Nam",
+        "estimatedTime": 2000,
+        "price": 150000
+    },
+    {
+        "name": "Thanh Hóa - Hòa Bình",
+        "estimatedTime": 2500,
+        "price": 200000
+    },
+    {
+        "name": "Quảng Bình - Quảng Trị",
+        "estimatedTime": 4000,
+        "price": 300000
+    },
+    {
+        "name": "Bắc Giang - Bắc Ninh",
+        "estimatedTime": 1500,
+        "price": 125000
+    },
+    {
+        "name": "Hà Giang - Cao Bằng",
+        "estimatedTime": 4500,
+        "price": 350000
+    },
+    {
+        "name": "Lào Cai - Lạng Sơn",
+        "estimatedTime": 3500,
+        "price": 275000
+    },
+    {
+        "name": "Yên Bái - Phú Thọ",
+        "estimatedTime": 2000,
+        "price": 150000
+    },
+    {
+        "name": "Bình Định - Khánh Hòa",
+        "estimatedTime": 3000,
+        "price": 250000
+    },
+    {
+        "name": "Tiền Giang - Bến Tre",
+        "estimatedTime": 1500,
+        "price": 125000
+    },
+    {
+        "name": "Trà Vinh - Sóc Trăng",
+        "estimatedTime": 2000,
+        "price": 150000
+    },
+    {
+        "name": "An Giang - Kiên Giang",
+        "estimatedTime": 3500,
+        "price": 275000
+    },
+    {
+        "name": "Long An - Vĩnh Long",
+        "estimatedTime": 2500,
+        "price": 200000
+    },
+    {
+        "name": "Bạc Liêu - Cà Mau",
+        "estimatedTime": 4000,
+        "price": 300000
+    },
+    {
+        "name": "Đắk Lắk - Gia Lai",
+        "estimatedTime": 3000,
+        "price": 250000
+    }
+]

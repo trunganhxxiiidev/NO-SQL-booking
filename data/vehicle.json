@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Xe 2",
+        "licensePlate": "50-B4-1155",
+        "totalSlot": 7
+    },
+    {
+        "name": "Xe 4",
+        "licensePlate": "76-C3-2234",
+        "totalSlot": 4
+    },
+    {
+        "name": "Xe 5",
+        "licensePlate": "29-Z1-9999",
+        "totalSlot": 30
+    },
+    {
+        "name": "Xe 6",
+        "licensePlate": "15-K9-1234",
+        "totalSlot": 3
+    },
+    {
+        "name": "Xe 7",
+        "licensePlate": "98-G6-5678",
+        "totalSlot": 3
+    },
+    {
+        "name": "Xe 8",
+        "licensePlate": "33-P1-4567",
+        "totalSlot": 3
+    },
+    {
+        "name": "Xe 9",
+        "licensePlate": "51-N2-6789",
+        "totalSlot": 3
+    },
+    {
+        "name": "Xe 10",
+        "licensePlate": "62-T8-9876",
+        "totalSlot": 3
+    },
+    {
+        "name": "Xe 11",
+        "licensePlate": "83-D5-2345",
+        "totalSlot": 3
+    },
+    {
+        "name": "Xe 12",
+        "licensePlate": "44-Q4-3456",
+        "totalSlot": 3
+    }
+]
